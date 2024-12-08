@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "aftership.api.key",
+  "type": "API key",
+  "description": "A description for 'aftership.api.key'"
+}]}
